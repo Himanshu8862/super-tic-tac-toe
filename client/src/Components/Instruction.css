@@ -1,0 +1,14 @@
+.header-container {
+    width: 350px;
+    margin: 0 auto;
+}
+
+.header-container p {
+    text-align: justify;
+}
+
+.header-container img {
+    width: 100%;
+    max-width: 270px;
+    height: auto;
+}

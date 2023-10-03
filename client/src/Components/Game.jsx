@@ -43,6 +43,7 @@ const Game = () => {
             </>) : (<>
                 <p>Waiting for opponent</p>
                 <p>My username: {myUsername}</p>
+                <div>Game</div>
             </>)}
         </>
     )
